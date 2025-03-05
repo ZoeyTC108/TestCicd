@@ -3,6 +3,7 @@
 
 // you can write to stdout for debugging purposes, e.g.
 // cout << "this is a debug message" << endl;
+// Binary Gap
 
 int solution(int N) {
     // Implement your solution here
